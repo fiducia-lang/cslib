@@ -13,3 +13,4 @@ public import CslibTests.LTS
 public import CslibTests.LambdaCalculus
 public import CslibTests.MLL
 public import CslibTests.Reduction
+public import CslibTests.TimedAutomata
