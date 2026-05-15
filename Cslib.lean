@@ -95,6 +95,9 @@ public import Cslib.Init
 public import Cslib.Languages.CCS.Basic
 public import Cslib.Languages.CCS.BehaviouralTheory
 public import Cslib.Languages.CCS.Semantics
+public import Cslib.Languages.TimedAutomata.Basic
+public import Cslib.Languages.TimedAutomata.BehaviouralTheory
+public import Cslib.Languages.TimedAutomata.Semantics
 public import Cslib.Languages.CombinatoryLogic.Basic
 public import Cslib.Languages.CombinatoryLogic.Confluence
 public import Cslib.Languages.CombinatoryLogic.Defs
